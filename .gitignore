@@ -1,7 +1,7 @@
 src/*.exe
-src/bitcoin
-src/bitcoind
-src/test_bitcoin
+src/autocoin
+src/autocoind
+src/test_autocoin
 .*.swp
 *.*~*
 *.bak
@@ -9,17 +9,17 @@ src/test_bitcoin
 *.orig
 *.o
 *.patch
-.bitcoin
+.autocoin
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-bitcoin-qt
-Bitcoin-Qt.app
+autocoin-qt
+Autocoin-Qt.app
 
 # Unit-tests
 Makefile.test
-bitcoin-qt_test
+autocoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
