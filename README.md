@@ -1,8 +1,6 @@
 Autocoin integration/staging tree
 ================================
 
-http://www.coingen.io
-
 Copyright (c) 2009-2013 Bitcoin Developers
 
 What is Autocoin?
@@ -15,7 +13,7 @@ out collectively by the network. Autocoin is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Autocoin client software, see http://www.coingen.io.
+the Autocoin client software, see http://www.autocoin.org
 
 License
 -------
